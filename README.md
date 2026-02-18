@@ -66,7 +66,7 @@ Architecting phase :)
 ### Keywords
 Hexagonal Architecture, Finite State Machine
 
-
+### Structure
 - Main program acts as a state machine/driver which sets up and drives adapters, transformers, models
   - Adapters interface with the outside world (reading source code, ingesting data, writing automation)
     - write to outputs
